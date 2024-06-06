@@ -26,52 +26,52 @@ export default function Table({ table, onUpdate }) {
             <div className="flex">
               <label className="font-bold pt-2">Table #:</label>
               <input
-                className="pt-2 pl-2 font-semibold"
+                className="mx-2 mt-2 pl-2 outline outline-1  rounded-sm  font-semibold"
                 name="Table"
-                value={editData.Table}
+                value={editData.table}
                 onChange={handleChange}
               />
             </div>
             <div className="flex">
               <label className="font-bold pt-2">PR:</label>
               <input
-                className="pt-2 pl-2 font-semibold"
+                className="mx-2 mt-2 pl-2 outline outline-1 rounded-sm  font-semibold"
                 name="PR"
-                value={editData.PR}
+                value={editData.pr}
                 onChange={handleChange}
               />
             </div>
             <div className="flex">
               <label className="font-bold pt-2">Name:</label>
               <input
-                className="pt-2 pl-2 font-semibold"
+                className="mx-2 mt-2 pl-2 outline outline-1 rounded-sm  font-semibold"
                 name="Name"
-                value={editData.Name}
+                value={editData.name}
                 onChange={handleChange}
               />
             </div>
             <div className="flex">
               <label className="font-bold pt-2">Cost:</label>
               <input
-                className="pt-2 pl-2 font-semibold"
+                className="mx-2 mt-2 pl-2 outline outline-1 rounded-sm  font-semibold"
                 name="Cost"
-                value={editData.Cost}
+                value={editData.cost}
                 onChange={handleChange}
               />
             </div>
             <div className="flex">
               <label className="font-bold pt-2">Number of People:</label>
               <input
-                className="pt-2 pl-2 font-semibold"
+                className="mx-2 mt-2 pl-2 outline outline-1 rounded-sm  font-semibold"
                 name="NumberOfPeople"
-                value={editData.NumberOfPeople}
+                value={editData.numberOfPeople}
                 onChange={handleChange}
               />
             </div>
             <div className="flex">
               <label className="font-bold pt-2">Arrived Inside:</label>
               <input
-                className="pt-2 pl-2 font-semibold"
+                className="mx-2 mt-2 pl-2 outline outline-1 rounded-sm  font-semibold"
                 name="arrivedInside"
                 value={editData.arrivedInside}
                 onChange={handleChange}
@@ -80,25 +80,25 @@ export default function Table({ table, onUpdate }) {
             <div className="flex">
               <label className="font-bold pt-2">Amount Paid:</label>
               <input
-                className="pt-2 pl-2 font-semibold"
+                className="mx-2 mt-2 pl-2 outline outline-1 rounded-sm  font-semibold"
                 name="AmountPaid"
-                value={editData.AmountPaid}
+                value={editData.amountPaid}
                 onChange={handleChange}
               />
             </div>
             <div className="flex">
               <label className="font-bold pt-2">Amount to pay:</label>
               <input
-                className="pt-2 pl-2 font-semibold"
+                className="mx-2 mt-2 pl-2 outline outline-1 rounded-sm  font-semibold"
                 name="AmountToPay"
-                value={editData.AmountToPay}
+                value={editData.amountToPay}
                 onChange={handleChange}
               />
             </div>
             <div className="flex">
               <label className="font-bold pt-2">Drinks:</label>
               <input
-                className="pt-2 pl-2 font-semibold"
+                className="mx-2 mt-2 pl-2 outline outline-1 rounded-sm  font-semibold w-full"
                 name="drinks"
                 value={editData.drinks}
                 onChange={handleChange}
@@ -141,23 +141,23 @@ export default function Table({ table, onUpdate }) {
           <>
             <div className="flex">
               <p className="font-bold pt-2">Table #:</p>
-              <p className="pt-2 pl-2 font-semibold"> {table.Table}</p>
+              <p className="pt-2 pl-2 font-semibold"> {table.table}</p>
             </div>
             <div className="flex">
               <p className="font-bold pt-2">PR:</p>
-              <p className="pt-2 pl-2 font-semibold"> {table.PR}</p>
+              <p className="pt-2 pl-2 font-semibold"> {table.pr}</p>
             </div>
             <div className="flex">
               <p className="font-bold pt-2">Name:</p>
-              <p className="pt-2 pl-2 font-semibold"> {table.Name}</p>
+              <p className="pt-2 pl-2 font-semibold"> {table.name}</p>
             </div>
             <div className="flex">
               <p className="font-bold pt-2">Cost:</p>
-              <p className="pt-2 pl-2 font-semibold"> {table.Cost}$</p>
+              <p className="pt-2 pl-2 font-semibold"> {table.cost}$</p>
             </div>
             <div className="flex">
               <p className="font-bold pt-2">Number of People:</p>
-              <p className="pt-2 pl-2 font-semibold"> {table.NumberOfPeople}</p>
+              <p className="pt-2 pl-2 font-semibold"> {table.numberOfPeople}</p>
             </div>
             <div className="flex">
               <p className="font-bold pt-2">Arrived Inside:</p>
@@ -165,11 +165,11 @@ export default function Table({ table, onUpdate }) {
             </div>
             <div className="flex">
               <p className="font-bold pt-2">Amount Paid:</p>
-              <p className="pt-2 pl-2 font-semibold">{table.AmountPaid}$</p>
+              <p className="pt-2 pl-2 font-semibold">{table.amountPaid}$</p>
             </div>
             <div className="flex">
               <p className="font-bold pt-2">Amount to pay:</p>
-              <p className="pt-2 pl-2 font-semibold">{table.AmountToPay}$</p>
+              <p className="pt-2 pl-2 font-semibold">{table.amountToPay}$</p>
             </div>
             <div className="flex">
               <p className="font-bold pt-2">Drinks:</p>
