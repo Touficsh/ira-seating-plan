@@ -9,7 +9,7 @@ export default function Filter({
   };
   return (
     <div className="flex  flex-wrap mt-4">
-      <div className="mx-auto flex mobile:flex-col">
+      <div className="mx-auto flex">
         <p className="font-bold">Table: </p>
         <input
           type="text"

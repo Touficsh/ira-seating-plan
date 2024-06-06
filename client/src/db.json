@@ -1,9 +1,9 @@
 [
   {
-    "Table": "1",
-    "PR": "Anthony Habib",
-    "Name": "Toufic",
-    "Cost": 35,
+    "table": "1",
+    "pr": "Anthony Habib",
+    "name": "Toufic",
+    "cost": 35,
     "NumberOfPeople": 4,
     "arrivedInside": 2,
     "AmountPaid": 250,
@@ -13,10 +13,10 @@
     "drinks": "1 Bottle & 5 XXL & 6 Glasses"
   },
   {
-    "Table": "2",
-    "PR": "N/A",
-    "Name": "Toufic",
-    "Cost": 35,
+    "table": "2",
+    "pr": "N/A",
+    "name": "Toufic",
+    "cost": 35,
     "NumberOfPeople": 6,
     "arrivedInside": 2,
     "AmountPaid": 250,
@@ -26,10 +26,10 @@
     "drinks": "1 Bottle"
   },
   {
-    "Table": "3",
-    "PR": "Anthony Habib",
-    "Name": "Toufic",
-    "Cost": 35,
+    "table": "3",
+    "pr": "Anthony Habib",
+    "name": "Toufic",
+    "cost": 35,
     "NumberOfPeople": 4,
     "arrivedInside": 2,
     "AmountPaid": 250,
@@ -39,10 +39,10 @@
     "drinks": "1 Bottle"
   },
   {
-    "Table": "4",
-    "PR": "Anthony Habib",
-    "Name": "Toufic",
-    "Cost": 35,
+    "table": "4",
+    "pr": "Anthony Habib",
+    "name": "Toufic",
+    "cost": 35,
     "NumberOfPeople": 4,
     "arrivedInside": 2,
     "AmountPaid": 250,
@@ -52,10 +52,10 @@
     "drinks": "1 Bottle"
   },
   {
-    "Table": "5",
-    "PR": "Anthony Charafeddine",
-    "Name": "Anthony Habib",
-    "Cost": 35,
+    "table": "5",
+    "pr": "Anthony Charafeddine",
+    "name": "Anthony Habib",
+    "cost": 35,
     "NumberOfPeople": 4,
     "arrivedInside": 2,
     "AmountPaid": 250,
@@ -65,10 +65,10 @@
     "drinks": "1 Bottle"
   },
   {
-    "Table": "6",
-    "PR": "Anthony Habib",
-    "Name": "Toufic",
-    "Cost": 35,
+    "table": "6",
+    "pr": "Anthony Habib",
+    "name": "Toufic",
+    "cost": 35,
     "NumberOfPeople": 4,
     "arrivedInside": 2,
     "AmountPaid": 250,
@@ -78,10 +78,10 @@
     "drinks": "1 Bottle"
   },
   {
-    "Table": "7",
-    "PR": "Anthony Habib",
-    "Name": "Toufic",
-    "Cost": 35,
+    "table": "7",
+    "pr": "Anthony Habib",
+    "name": "Toufic",
+    "cost": 35,
     "NumberOfPeople": 4,
     "arrivedInside": 2,
     "AmountPaid": 250,
@@ -91,10 +91,10 @@
     "drinks": "1 Bottle"
   },
   {
-    "Table": "8",
-    "PR": "Anthony Habib",
-    "Name": "Toufic",
-    "Cost": 35,
+    "table": "8",
+    "pr": "Anthony Habib",
+    "name": "Toufic",
+    "cost": 35,
     "NumberOfPeople": 4,
     "arrivedInside": 2,
     "AmountPaid": 250,
@@ -104,10 +104,10 @@
     "drinks": "1 Bottle"
   },
   {
-    "Table": "9",
-    "PR": "Anthony Habib",
-    "Name": "Toufic",
-    "Cost": 35,
+    "table": "9",
+    "pr": "Anthony Habib",
+    "name": "Toufic",
+    "cost": 35,
     "NumberOfPeople": 4,
     "arrivedInside": 2,
     "AmountPaid": 250,
@@ -117,10 +117,10 @@
     "drinks": "1 Bottle"
   },
   {
-    "Table": "10",
-    "PR": "Anthony Habib",
-    "Name": "Toufic",
-    "Cost": 35,
+    "table": "10",
+    "pr": "Anthony Habib",
+    "name": "Toufic",
+    "cost": 35,
     "NumberOfPeople": 4,
     "arrivedInside": 2,
     "AmountPaid": 250,
@@ -130,10 +130,10 @@
     "drinks": "1 Bottle"
   },
   {
-    "Table": "11",
-    "PR": "Anthony Habib",
-    "Name": "Toufic",
-    "Cost": 35,
+    "table": "11",
+    "pr": "Anthony Habib",
+    "name": "Toufic",
+    "cost": 35,
     "NumberOfPeople": 4,
     "arrivedInside": 2,
     "AmountPaid": 250,
@@ -143,10 +143,10 @@
     "drinks": "1 Bottle"
   },
   {
-    "Table": "12",
-    "PR": "Rafic",
-    "Name": "Toufic 2",
-    "Cost": 35,
+    "table": "12",
+    "pr": "Rafic",
+    "name": "Toufic 2",
+    "cost": 35,
     "NumberOfPeople": 4,
     "arrivedInside": 2,
     "AmountPaid": 250,
